@@ -9,3 +9,9 @@ Será criado um CRUD completo com API em Spring Boot REST usando o Spring Data J
 - Spring Boot
 - DevTools
 - Spring Data JPA
+
+
+## Ferramentas
+
+- Spring Tool Suite (Eclipse)
+- Postman
