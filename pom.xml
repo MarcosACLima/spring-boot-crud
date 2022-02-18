@@ -12,6 +12,7 @@
 	<groupId>br.com.dlima</groupId>
 	<artifactId>Java-Treinamento</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>crud</name>
 	<description>Projeto de Crud com Spring Boot</description>
 	<properties>
