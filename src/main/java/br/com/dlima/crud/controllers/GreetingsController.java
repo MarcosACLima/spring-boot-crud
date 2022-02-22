@@ -27,7 +27,7 @@ public class GreetingsController {
 	@Autowired /* IC/CD ou CDI - Injeção de dependencias */
 	private UsuarioRepository usuarioRepository;
 	
-	// http://localhost:8080/mostrarnome/digitar string name
+	// http://localhost:8080/crud/mostrarnome/digitar string name
 	@RequestMapping(value = "/mostrarnome/{name}", method = RequestMethod.GET)
 	@ResponseStatus(HttpStatus.OK)
 	public String greetingsText(@PathVariable String name) {
